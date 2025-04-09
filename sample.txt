@@ -1,0 +1,14 @@
+hi my name is kong kon and im from assam and i want to run away far from here to a solitude place in the norths and a cold place to be a new person and to start over a new life 
+to write a new story and to create new moments memories etc .
+
+hi anke my name i kognok bora and im from assam and i want to create a new value for money to the startup and i want  to create the amazing operation on the go to astronomicaol
+im a very passionate and very economical to the operation of the economicaol of he astronomical of what the fuck abcdefghijklmnopqrstuvwxyz 
+#include <iostream>
+#include<conio.H>
+int main(){
+ int i;
+like ene type koribole hole moi tu parim kintu aibur coding ot nuwaru ene speed nahe
+C:\tools\neovim\nvim-win64\bin\nvim.exe
+set PATH=C:\tools\neovim\nvim-win64\bin\nvim.exe;%PATH%
+set PATH=C:\Path\To\Neovim\bin;%PATH%
+$env:PATH += ";C:\tools\neovim\nvim-win64\bin\nvim.exe
