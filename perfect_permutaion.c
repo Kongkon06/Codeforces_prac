@@ -5,7 +5,7 @@ int main(){
     scanf("%d",&num);
     if(num%2!=0){
         printf("-1");
-    }
+    };
     for(i=1;i<=num;i+=2){
         p[i] = i+1;
         p[i+1] =i;
